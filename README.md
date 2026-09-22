@@ -1,5 +1,5 @@
 # AI-MiniProgram
-Discover and track cutting-edge AI models worldwide.
+Discover and track cutting-edge AI models worldwide. This project isn't open source because it's proprietary.
 
 # Key coding techniques
 1. Implement user registration and login via WeChat, build up a database restoring the users info.
