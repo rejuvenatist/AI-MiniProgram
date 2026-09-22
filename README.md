@@ -2,7 +2,7 @@
 A platform that allows you to catch up with all the newest ai models around the globe.
 
 # Key coding techniques
-1. Implement user registration and login via WeChat， build up a database restoring the users info.
+1. Implement user registration and login via WeChat, build up a database restoring the users info.
 2. Build fluid UI motion animations.
 
 # Project Showcases
